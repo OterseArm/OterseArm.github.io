@@ -202,18 +202,18 @@ h1{
 .reg{
 	justify-content:space-around;
 	margin-left:80px;
+	width:440px;
 }
 .reg-osn{
-	width:440px;
+	width:400px;
 	margin-bottom:10px;
 }
 .reg-two{
-	width:200px;
-	margin-right:5px;
+	width:175px;
 }
 .reg-two2{
-	width:200px;
-	margin-left:5px;
+	width:175px;
+	margin-left:10px;
 }
 .gal{
 	font-size:13px;
